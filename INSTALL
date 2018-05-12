@@ -1,0 +1,9 @@
+Building Sharkcoin
+
+See doc/readme-qt.rst for instructions on building Sharkcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sharkcoin.
+
+See doc/build-*.txt for instructions on building sharkcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sharkcoin.
