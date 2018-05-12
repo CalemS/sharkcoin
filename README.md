@@ -1,7 +1,8 @@
 Sharkcoin integration/staging tree
 ================================
 
-http://www.sharkcoin.org
+Sharkcoin Discord
+Crypt0z Discord https://discord.gg/8GcFtUX
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -15,7 +16,7 @@ Sharkcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - subsidy halves in 840k blocks (~4 years)
  - ~10 thousand total coins
  - 20 coins per block
- - 24hr retarget difficulty
+ - 24hr difficulty retarget
 
 For more information, as well as an immediately useable, binary version of
 the Sharkcoin client sofware, see http://www.sharkcoin.org.
