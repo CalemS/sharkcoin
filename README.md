@@ -1,17 +1,17 @@
 Sharkcoin integration/staging tree
 ================================
 
-Sharkcoin Discord
+Sharkcoin Discord https://discord.gg/7fGVXUn
 Crypt0z Discord https://discord.gg/8GcFtUX
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2018 Sharkcoin Developers
+Copyright (c) 2018 Sharkcoin & Crypt0z Developers
 
 What is Sharkcoin?
 ----------------
 
-Sharkcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Sharkcoin is a simple litecoin clone with reduced rewards and coincap along with minor blocktime changes.
  - 5 minute block targets
  - subsidy halves in 10k blocks
  - ~350 thousand total coins
