@@ -16,7 +16,6 @@ Sharkcoin is a simple litecoin clone with reduced rewards and coincap along with
  - subsidy halves in 10k blocks
  - ~350 thousand total coins
  - 20 coins per block
- - 24hr difficulty retarget
 
 
 
