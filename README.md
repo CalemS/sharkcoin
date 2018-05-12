@@ -13,7 +13,7 @@ What is Sharkcoin?
 
 Sharkcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
+ - subsidy halves in 10k blocks
  - ~10 thousand total coins
  - 20 coins per block
  - 24hr difficulty retarget
