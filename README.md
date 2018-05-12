@@ -18,8 +18,7 @@ Sharkcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - 20 coins per block
  - 24hr difficulty retarget
 
-For more information, as well as an immediately useable, binary version of
-the Sharkcoin client sofware, see http://www.sharkcoin.org.
+
 
 License
 -------
