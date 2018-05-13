@@ -76,7 +76,7 @@ Installing the dependencies using MacPorts is very straightforward.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone git@github.com:sharkcoin-project/sharkcoin.git sharkcoin
+        git clone git@github.com:sharkcoin/sharkcoin.git sharkcoin
         cd sharkcoin
 
 2.  Build sharkcoind:
@@ -111,7 +111,7 @@ Rerunning "openssl version" should now return the correct version.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone https://github.com/sharkcoin-project/sharkcoin.git
+        git clone https://github.com/sharkcoin/sharkcoin.git
         cd sharkcoin
 
 2.  Modify source in order to pick up the `openssl` library.
